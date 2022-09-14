@@ -1,2 +1,2 @@
-print("HI")
-print("Hello")
+print("""HI
+      Hello""")
